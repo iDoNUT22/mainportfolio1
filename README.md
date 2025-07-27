@@ -3,7 +3,7 @@
 ## 🌐 Portfolio Website
 A personal portfolio to showcase my background, skills, and projects.  
 🔸 *Note: This website is based on a pre-made template and not originally designed by me.*
-
+---
 ##📁 My Projects
 
 A list of the projects I've worked on:
